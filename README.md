@@ -7,9 +7,9 @@ Built a virtualized Active Directory lab environment to gain hands-on experience
 
 **Infrastructure:**
 - **Domain Controller:** Windows Server 2019 (DC-Server)
-- **Workstations:** 2x Windows 10 Pro (WS-01, WS-02)
+- **Workstations:** Windows 10 Pro (Workstation)
 - **Virtualization Platform:** VMware Workstation
-- **Domain Name:** cerulean.local
+- **Domain Name:** kareem.local
 - **Network Configuration:** NAT
 
 ## 🛠️ Technologies Used
