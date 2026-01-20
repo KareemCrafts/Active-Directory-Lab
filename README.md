@@ -1,5 +1,25 @@
 # Active Directory Lab Environment
 
+## 📸 Screenshots
+
+### Active Directory Users and Computers
+<img width="1015" height="846" alt="ServerManagerDashboard" src="https://github.com/user-attachments/assets/bba2d105-ea73-421f-ae54-a9d38a73b661" />
+
+### Domain Controller ping
+<img width="1010" height="751" alt="Ping" src="https://github.com/user-attachments/assets/0d6aa167-e9c4-4d5a-be48-d28aec35f48d" />
+
+### Network Configuration
+<img width="977" height="777" alt="NetworkConfiguration" src="https://github.com/user-attachments/assets/eeb19238-ef86-46d0-a63c-b03084ae1316" />
+
+
+### Setting DomainName
+<img width="1020" height="768" alt="DomainName" src="https://github.com/user-attachments/assets/762980c1-459a-4cc7-93fb-fa0652e24882" />
+
+
+### Domain-Joined Workstation
+<img width="1013" height="838" alt="Test" src="https://github.com/user-attachments/assets/6dbe67a8-6e01-421c-b6e9-052af6ae1bf9" />
+
+
 ## 📋 Overview
 Built a virtualized Active Directory lab environment to gain hands-on experience with enterprise Windows security, domain administration, and Group Policy management.
 
